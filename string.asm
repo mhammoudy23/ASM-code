@@ -1,5 +1,4 @@
 TITLE Assignment 4
-;Mike Hammoud
 ;March 18 2018
 
 
