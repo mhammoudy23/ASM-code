@@ -1,5 +1,4 @@
 bTITLE Assignment 1 Question 2
-;Mike Hammoud
 ;March 6 2018
 
 .386
