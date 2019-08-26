@@ -1,6 +1,5 @@
 TITLE Assignment 1 Question 1
 ;Program that evaluates Z = (A - B) + (C - D)
-;Mike Hammoud
 ;March 6 2018
 
 
