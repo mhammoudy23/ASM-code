@@ -1,5 +1,4 @@
 TITLE Assignment 3
-; Mike Hammoud
 ; March 18 2018
 
 .386
@@ -34,7 +33,7 @@ msg12 BYTE "after StackToArray:", 0Dh, 0Ah, 0
 msg13 BYTE "before StackReverse:", 0Dh, 0Ah, 0
 msg14 BYTE "after StackReverse:", 0Dh, 0Ah, 0
 msg15 BYTE "Error - Stack is empty: Cannot perform StackToArray", 0Dh, 0Ah, 0
-msg16 BYTE "I am exiting… Thank you Honey… and Get lost…", 0Dh, 0Ah, 0
+msg16 BYTE "I am exitingâ€¦ Thank you Honeyâ€¦ and Get lostâ€¦", 0Dh, 0Ah, 0
 
 
 .code
