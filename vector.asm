@@ -1,5 +1,4 @@
 TITLE Assignment 2 Question 1
-;Mike Hammoud
 ;March 19 2018
 
 .386
